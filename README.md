@@ -1,1 +1,1 @@
-# signup-app
+# SignupApp
