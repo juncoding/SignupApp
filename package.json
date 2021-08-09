@@ -6,7 +6,6 @@
     "android": "npx react-native run-android",
     "ios": "npx react-native run-ios",
     "start": "npx react-native start",
-    "install": "npm install && cd ios && pod install && cd ..",
     "test": "jest",
     "lint": "eslint ."
   },
