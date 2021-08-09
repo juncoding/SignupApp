@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
   },
   input: {
-    width: 100,
+    width: '50%',
   },
   rowLabel: {
     left: 20,
