@@ -9,6 +9,7 @@
 ```
 
 ## [How to install react-native for both iOS and android environment](https://reactnative.dev/docs/environment-setup)
+## Node version: v14.17.3
 
 ## How to set up and build the app locally? 
 
