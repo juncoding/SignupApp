@@ -9,7 +9,7 @@
 git clone https://github.com/juncoding/SignupApp
 cd SignupApp
 npm install
-cd ios && pod install && cd ..
+npm run pod
 ```
 
 >### Run ios 
