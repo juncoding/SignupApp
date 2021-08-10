@@ -18,6 +18,7 @@ npm run ios
 ```
 >### Run android
 ```
+adb reverse tcp:3000 tcp:3000
 npm run android
 ```
 ## How to set up the backend server to be run locally? 
