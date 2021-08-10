@@ -1,5 +1,13 @@
 # SignupApp - [Demo Video](https://www.youtube.com/watch?v=5EknDYhex5I)
 
+>### Features
+```
+* Use Redux store
+* Photo library permission check & request (iOS)
+* Basic validation - check empty value
+* Upload image to backend server
+```
+
 ## [How to install react-native for both iOS and android environment](https://reactnative.dev/docs/environment-setup)
 
 ## How to set up and build the app locally? 
