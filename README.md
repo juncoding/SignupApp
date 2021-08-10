@@ -24,7 +24,7 @@ npm run pod
 ```
 npm run ios
 ```
->### Run android - launch simulator from android studio first (AVD Manager)
+>### Run android - launch simulator from android studio first (via AVD Manager)
 ```
 adb reverse tcp:3000 tcp:3000
 npm run android
