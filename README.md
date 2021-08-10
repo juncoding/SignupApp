@@ -4,7 +4,7 @@
 
 ## How to set up and build the app locally? 
 
->### Install package && pods 
+>### Install packages && pods 
 ```
 git clone https://github.com/juncoding/SignupApp
 cd SignupApp
