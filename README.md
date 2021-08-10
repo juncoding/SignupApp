@@ -32,7 +32,7 @@ npm run android
 ```
 ## How to set up the backend server to be run locally? 
 
->### [Use docker (recommend)](https://docs.docker.com/engine/install/) 
+>### [Use docker (recommended)](https://docs.docker.com/engine/install/) 
 ```
 docker run -p 3000:3000 zj1o27/rn-demo-server
 ```
