@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "adb reverse tcp:3000 tcp:3000 && npx react-native run-android",
+    "android": "npx react-native run-android",
     "ios": "npx react-native run-ios",
     "start": "npx react-native start",
     "pod": "cd ios && pod install && cd ..",
