@@ -41,5 +41,5 @@ docker run -p 3000:3000 zj1o27/rn-demo-server
 git clone https://github.com/juncoding/SignupAppServer
 cd SignupAppServer
 npm install
-npm run
+npm start
 ```
